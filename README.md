@@ -2,11 +2,13 @@
 
 Software Engineering Manager turned indie builder.  
 I design and ship focused micro-products with strong execution and zero fluff.
+<!--
 <p align="center">
   <a href="https://github.com/buraksh">
     <img src="https://komarev.com/ghpvc/?username=buraksh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="buraksh" />
   </a>
 </p>
+-->
 
 ## ✨ About Me
 
@@ -41,6 +43,8 @@ I design and ship focused micro-products with strong execution and zero fluff.
 - 🧠 [Thought Ease: Stop Overthinking](https://thought-ease.buraksahin.net/) · [App Store](https://apps.apple.com/tr/app/thought-ease-end-overthinking/id6759291269)
 - 🪙 [Altın Kaç Oldu?](https://altinkacoldu.com/)
 - 🚛 [Çekici Bul](https://cekicibul.app/)
+- 🔒 [Screen Lock](https://github.com/buraksh/Screen-Lock)
+- 💾 [FreeDiskSpace](https://github.com/buraksh/FreeDiskSpace)
 
 ---
 
