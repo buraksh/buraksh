@@ -38,9 +38,11 @@ I design and ship focused micro-products with strong execution and zero fluff.
 
 ## 📱 My Projects
 
-- 🧘‍♂️ [Drift Breath](https://driftbreath.com) · [App Store](https://apps.apple.com/us/app/drift-breath-sleep-breathing/id6758525416)
-- 📈 [66-Day Streak: Habit Builder](https://66streaks.com) · [App Store](https://apps.apple.com/tr/app/66-day-streak-habit-builder/id6759220059)
-- 🧠 [Thought Ease: Stop Overthinking](https://thought-ease.buraksahin.net/) · [App Store](https://apps.apple.com/tr/app/thought-ease-end-overthinking/id6759291269)
+- 🧘‍♂️ [Drift Breath](https://driftbreath.com) · [App Store](https://apps.apple.com/app/id6758525416)
+- 📈 [66-Day Streak: Habit Builder](https://66streaks.com) · [App Store](https://apps.apple.com/app/id6759220059)
+- 🧠 [Thought Ease: Stop Overthinking](https://thought-ease.buraksahin.net/) · [App Store](https://apps.apple.com/app/id6759291269)
+- 🌊 [RippleOut](https://rippleout.buraksahin.net/) · [App Store](https://apps.apple.com/app/id6808605832)
+- 🧠 [Cephala](https://cephala.buraksahin.net/) · Coming soon
 - 🪙 [Altın Kaç Oldu?](https://altinkacoldu.com/)
 - 🚛 [Çekici Bul](https://cekicibul.app/)
 - 🔒 [Screen Lock](https://github.com/buraksh/Screen-Lock)
