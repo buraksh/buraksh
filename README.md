@@ -38,11 +38,11 @@ I design and ship focused micro-products with strong execution and zero fluff.
 
 ## 📱 My Projects
 
-- 🧘‍♂️ [Drift Breath](https://driftbreath.com) · [App Store](https://apps.apple.com/app/id6758525416)
-- 📈 [66-Day Streak: Habit Builder](https://66streaks.com) · [App Store](https://apps.apple.com/app/id6759220059)
-- 🧠 [Thought Ease: Stop Overthinking](https://thought-ease.buraksahin.net/) · [App Store](https://apps.apple.com/app/id6759291269)
-- 🌊 [RippleOut](https://rippleout.buraksahin.net/) · [App Store](https://apps.apple.com/app/id6808605832)
-- 🧠 [Cephala](https://cephala.buraksahin.net/) · Coming soon
+- 🧠 [Cephala - Migraine Tracker & Symptom Log](https://cephala.buraksahin.net/) · [App Store](https://apps.apple.com/app/id6809005068)
+- 🌊 [RippleOut - Speaker Cleaner& Audio Eject](https://rippleout.buraksahin.net/) · [App Store](https://apps.apple.com/app/id6808605832)
+- 🧘‍♂️ [Drift Breath - Sleep Breathing: Night Routine](https://driftbreath.com) · [App Store](https://apps.apple.com/app/id6758525416)
+- 🧠 [Thought Ease - End Overthinking](https://thought-ease.buraksahin.net/) · [App Store](https://apps.apple.com/app/id6759291269)
+- 📈 [66 Streaks - Habit & Streak Tracker](https://66streaks.com) · [App Store](https://apps.apple.com/app/id6759220059)
 - 🪙 [Altın Kaç Oldu?](https://altinkacoldu.com/)
 - 🚛 [Çekici Bul](https://cekicibul.app/)
 - 🔒 [Screen Lock](https://github.com/buraksh/Screen-Lock)
